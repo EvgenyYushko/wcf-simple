@@ -1,0 +1,106 @@
+D:\ServicesWCF\Client\bin\Debug\Client.exe
+D:\ServicesWCF\Client\bin\Debug\Client.pdb
+D:\ServicesWCF\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\ServicesWCF\Client\obj\Debug\Window1.baml
+D:\ServicesWCF\Client\obj\Debug\Window1.g.cs
+D:\ServicesWCF\Client\obj\Debug\App.g.cs
+D:\ServicesWCF\Client\obj\Debug\Client_MarkupCompile.cache
+D:\ServicesWCF\Client\obj\Debug\Client.g.resources
+D:\ServicesWCF\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ServicesWCF\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\ServicesWCF\Client\obj\Debug\Client.exe
+D:\ServicesWCF\Client\obj\Debug\Client.pdb
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\Client.exe
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\Client.pdb
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\bin\Debug\Client.exe
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\bin\Debug\Client.pdb
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\Window1.baml
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\Window1.g.cs
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\App.g.cs
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\Client_MarkupCompile.cache
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\Client.g.resources
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\Client.Properties.Resources.resources
+D:\WCF LESSONS\WCF TESTS\ServicesWCF\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\bin\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\bin\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\Window1.baml
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\Window1.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\App.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\Client_MarkupCompile.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\Client.g.resources
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\Client.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\003_WCF WPF_Code\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\bin\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\bin\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\Window1.baml
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\Window1.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\App.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\Client_MarkupCompile.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\Client.g.resources
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\Client.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\002_HOSTING\004_WCF WPF_Config\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\bin\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\bin\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\Window1.baml
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\Window1.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\App.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\Client_MarkupCompile.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\Client.g.resources
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\Client.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\005_WCF WPF_Config\Client\obj\Debug\ResGen.write.1.tlog
+D:\005_WCF WPF_Config\Client\obj\Debug\Client.exe
+D:\005_WCF WPF_Config\Client\obj\Debug\Client.pdb
+D:\005_WCF WPF_Config\Client\bin\Debug\Client.exe
+D:\005_WCF WPF_Config\Client\bin\Debug\Client.pdb
+D:\005_WCF WPF_Config\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\005_WCF WPF_Config\Client\obj\Debug\Window1.baml
+D:\005_WCF WPF_Config\Client\obj\Debug\Window1.g.cs
+D:\005_WCF WPF_Config\Client\obj\Debug\App.g.cs
+D:\005_WCF WPF_Config\Client\obj\Debug\Client_MarkupCompile.cache
+D:\005_WCF WPF_Config\Client\obj\Debug\Client.g.resources
+D:\005_WCF WPF_Config\Client\obj\Debug\Client.Properties.Resources.resources
+D:\005_WCF WPF_Config\Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\005_WCF WPF_Config\Client\obj\Debug\ResGen.read.1.tlog
+D:\005_WCF WPF_Config\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\005_WCF WPF_Config\Client\obj\Debug\ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\bin\Debug\Client.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\bin\Debug\Client.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\Window1.baml
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\Window1.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\App.g.cs
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\Client_MarkupCompile.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\Client.g.resources
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\ResGen.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\Client\Client\obj\Debug\ResGen.write.1.tlog
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\bin\Debug\Client.exe
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\bin\Debug\Client.pdb
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Window1.baml
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Window1.g.cs
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\App.g.cs
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Client_MarkupCompile.cache
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Client.g.resources
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Client.exe
+D:\WCF\002_HOSTING\008_ServiceNT_Host\Client\Client\obj\Debug\Client.pdb

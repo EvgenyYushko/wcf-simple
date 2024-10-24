@@ -1,0 +1,6 @@
+D:\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+D:\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+D:\WindowsService2\WindowsService2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsService2\WindowsService2\obj\x86\Debug\WindowsService2.exe
+D:\WindowsService2\WindowsService2\obj\x86\Debug\WindowsService2.pdb
+D:\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config

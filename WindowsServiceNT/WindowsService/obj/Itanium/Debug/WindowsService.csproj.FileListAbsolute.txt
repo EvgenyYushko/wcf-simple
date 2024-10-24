@@ -1,0 +1,6 @@
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Itanium\Debug\WindowsService.exe.config
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Itanium\Debug\WindowsService.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Itanium\Debug\WindowsService.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\Itanium\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\Itanium\Debug\WindowsService.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\Itanium\Debug\WindowsService.pdb

@@ -1,0 +1,9 @@
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\x64\Debug\WindowsService.exe.config
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\x64\Debug\WindowsService.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\x64\Debug\WindowsService.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\x64\Debug\WindowsService.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\x64\Debug\WindowsService.pdb
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\x64\Debug\WindowsService.exe.config
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\x64\Debug\WindowsService.exe
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\x64\Debug\WindowsService.pdb

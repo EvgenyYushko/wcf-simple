@@ -1,0 +1,6 @@
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe.config
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.pdb
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\x86\Debug\WindowsService.csprojResolveAssemblyReference.cache
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\x86\Debug\WindowsService.exe
+D:\WCF\002_HOSTING\008_ServiceNT_Host\WindowsServiceNT\WindowsService\obj\x86\Debug\WindowsService.pdb

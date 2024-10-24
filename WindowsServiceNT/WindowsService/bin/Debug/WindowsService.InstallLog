@@ -1,0 +1,190 @@
+﻿Installing assembly 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Installing service lllll ServiceNT lllll...
+Service lllll ServiceNT lllll has been successfully installed.
+Creating EventLog source lllll ServiceNT lllll in log Application...
+Committing assembly 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Uninstalling assembly 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source lllll ServiceNT lllll.
+Service lllll ServiceNT lllll is being removed from the system...
+Service lllll ServiceNT lllll was successfully removed from the system.
+Installing assembly 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Installing service lllll ServiceNT lllll...
+Service lllll ServiceNT lllll has been successfully installed.
+Creating EventLog source lllll ServiceNT lllll in log Application...
+Committing assembly 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Uninstalling assembly 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source lllll ServiceNT lllll.
+Service lllll ServiceNT lllll is being removed from the system...
+Service lllll ServiceNT lllll was successfully removed from the system.
+Выполняется установка сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Устанавливается служба lllll ServiceNT lllll...
+Служба lllll ServiceNT lllll успешно установлена.
+Создается исходный EventLog lllll ServiceNT lllll в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление источника EventLog lllll ServiceNT lllll.
+Выполняется удаление службы lllll ServiceNT lllll из системы...
+Служба lllll ServiceNT lllll успешно удалена из системы.
+Выполняется установка сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Устанавливается служба lllll ServiceNT lllll...
+Служба lllll ServiceNT lllll успешно установлена.
+Создается исходный EventLog lllll ServiceNT lllll в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление источника EventLog lllll ServiceNT lllll.
+Выполняется удаление службы lllll ServiceNT lllll из системы...
+Служба lllll ServiceNT lllll успешно удалена из системы.
+Выполняется установка сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Устанавливается служба lllll ServiceNT lllll...
+Служба lllll ServiceNT lllll успешно установлена.
+Создается исходный EventLog lllll ServiceNT lllll в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление источника EventLog lllll ServiceNT lllll.
+Выполняется удаление службы lllll ServiceNT lllll из системы...
+Служба lllll ServiceNT lllll успешно удалена из системы.
+Выполняется установка сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Устанавливается служба lllll ServiceNT lllll...
+Служба lllll ServiceNT lllll успешно установлена.
+Создается исходный EventLog lllll ServiceNT lllll в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление источника EventLog lllll ServiceNT lllll.
+Выполняется удаление службы lllll ServiceNT lllll из системы...
+Служба lllll ServiceNT lllll успешно удалена из системы.
+Выполняется установка сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Устанавливается служба lllll ServiceNT lllll...
+Служба lllll ServiceNT lllll успешно установлена.
+Создается исходный EventLog lllll ServiceNT lllll в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление источника EventLog lllll ServiceNT lllll.
+Выполняется удаление службы lllll ServiceNT lllll из системы...
+Служба lllll ServiceNT lllll успешно удалена из системы.
+Выполняется установка сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Устанавливается служба lllll ServiceNT lllll...
+Служба lllll ServiceNT lllll успешно установлена.
+Создается исходный EventLog lllll ServiceNT lllll в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление источника EventLog lllll ServiceNT lllll.
+Выполняется удаление службы lllll ServiceNT lllll из системы...
+Служба lllll ServiceNT lllll успешно удалена из системы.
+Выполняется установка сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Устанавливается служба lllll ServiceNT lllll...
+Служба lllll ServiceNT lllll успешно установлена.
+Создается исходный EventLog lllll ServiceNT lllll в журнале Application...
+Выполняется фиксация сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление сборки 'D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\008_ServiceNT_Host\WindowsServiceNT\WindowsService\bin\Debug\WindowsService.exe
+Выполняется удаление источника EventLog lllll ServiceNT lllll.
+Выполняется удаление службы lllll ServiceNT lllll из системы...
+Служба lllll ServiceNT lllll успешно удалена из системы.
+Попытка останова службы lllll ServiceNT lllll.
